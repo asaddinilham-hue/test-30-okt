@@ -1,4 +1,0 @@
-pandas
-strealit
-plotly
-openpyxl
